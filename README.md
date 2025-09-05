@@ -1,6 +1,6 @@
 # FUTURE_FS_01
 
-# Personal Portfolio — Jane Doe (Vite + React)
+# Personal Portfolio — Nandini K S (Vite + React)
 
 ## Overview
 This is a professional, responsive personal portfolio built with Vite + React.
@@ -21,11 +21,6 @@ This is a professional, responsive personal portfolio built with Vite + React.
 3. Open `http://localhost:5173` (Vite default) and test features:
    - Click **View on GitHub** to open project repos.
    - Use the contact form to open Gmail compose with your message prefilled.
-
-## Customization
-- Replace `janedoe@example.com` with your email in `src/components/Hero.jsx` and `src/components/Contact.jsx`.
-- Replace project items in `src/components/Projects.jsx` with your actual GitHub URLs.
-- Replace `Jane_Doe_Resume.pdf` with your real resume PDF.
 
 ## Deploy
 - Build: `npm run build`
